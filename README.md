@@ -3,7 +3,7 @@
 By working on this project, we gained insights into:
 
 - **React Router**: Understanding dynamic routes and how they work.
-- **API Integration**: Loading data from an existing API.
+- **API Integration**: Loading data from an existing API. (Was taken from Programming Hero GitHub)
 - **Data Handling**: Rendering specific data from a JSON file.
 - **Graph Charts**: Displaying data visually using chart libraries.
 - **Complex Layouts**: Building and managing intermediate layouts in React.
@@ -18,6 +18,7 @@ By working on this project, we gained insights into:
 ## Tech Stack
 
 - **Frontend**: React (with Vite for fast development)
+- **Design**: TailawindCSS (with DaisyUI library)
 - **Routing**: React Router DOM
 - **Data Visualization**: Recharts
 - **Deployment**: Vercel
