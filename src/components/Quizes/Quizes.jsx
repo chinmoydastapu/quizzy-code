@@ -9,7 +9,7 @@ const Quizes = () => {
         <div className='my-10'>
             <h1 className='text-center text-5xl mb-16'>Welcome to <span className='font-bold'>{name}</span> Quiz</h1>
             {
-                questions.map((idx, question) => <Question key={idx} ques={question}></Question>)
+                questions.map((question, idx) => <Question key={idx} ques={question}></Question>)
             }
         </div>
     );

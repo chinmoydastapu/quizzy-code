@@ -3,9 +3,7 @@ import { Bar, BarChart, Tooltip, XAxis, YAxis } from 'recharts';
 
 const Statistics = () => {
     const data = useLoaderData().data;
-    console.log(data);
-
-
+ 
     return (
         <div>
             <h1 className='text-4xl text-center font-semibold my-10'>Simple Bar Chart</h1>
